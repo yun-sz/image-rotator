@@ -5,7 +5,7 @@ import cv2
 
 from image_rotator import process_image
 
-INPUT_DIR = "input/nn"
+INPUT_DIR = "input"
 OUTPUT_DIR = "output"
 EXTENSIONS = {'.jpg', '.jpeg', '.png', '.bmp', '.tiff', '.tif', '.webp'}
 
