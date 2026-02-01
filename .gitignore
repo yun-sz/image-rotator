@@ -1,0 +1,7 @@
+output/*
+!output/.gitkeep
+input/*
+!input/.gitkeep
+.venv
+.claude
+__pycache__
